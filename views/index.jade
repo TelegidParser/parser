@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  //progress(value="0")
+  ul.channels-list
+    li(ng-click="processChannel(channel.alias)", ng-repeat="channel in channels | orderBy:'title'", ng-class="{selected: channel.exists}") {{channel.title}}
+  channel-content

@@ -1,0 +1,442 @@
+[
+  {
+    "alias": "tv1000",
+    "title": "TV-1000",
+    "active": true,
+    "filename": "(R)TV1000.txt",
+    "lists": [
+      "common",
+      "tv1000",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "rusever",
+    "title": "Русский Север",
+    "active": true,
+    "filename": "rusever.txt",
+    "lists": [
+      "common",
+      "rusever",
+      "common"
+    ]
+  },
+  {
+    "alias": "otr",
+    "title": "ОТР",
+    "active": true,
+    "filename": "(R)OTR.txt",
+    "lists": [
+      "common",
+      "otr",
+      "common"
+    ]
+  },
+  {
+    "alias": "friday",
+    "title": "Пятница",
+    "active": true,
+    "filename": "(R)Friday.txt",
+    "lists": [
+      "common",
+      "friday",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "kultura",
+    "title": "Россия К",
+    "active": true,
+    "filename": "(R)KUL.txt",
+    "lists": [
+      "common",
+      "kultura",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "karusel",
+    "title": "Карусель",
+    "active": true,
+    "filename": "(R)Karusel.txt",
+    "lists": [
+      "common",
+      "karusel",
+      "common"
+    ]
+  },
+  {
+    "alias": "ap",
+    "title": "Animal Planet",
+    "active": true,
+    "filename": "(R)ntv+17.txt",
+    "lists": [
+      "common",
+      "ap",
+      "common"
+    ]
+  },
+  {
+    "alias": "rtv",
+    "remove": "^0[678].\\d\\d.*$",
+    "title": "Reality",
+    "active": true,
+    "filename": "(R)Reality.txt",
+    "lists": [
+      "common",
+      "rtv",
+      "common"
+    ]
+  },
+  {
+    "alias": "match",
+    "title": "Матч ТВ",
+    "active": true,
+    "filename": "(R)MatchTV.txt",
+    "lists": [
+      "common",
+      "match",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "rtr",
+    "title": "Россия",
+    "active": true,
+    "filename": "(R)RTR_REG.txt",
+    "lists": [
+      "common",
+      "rtr",
+      "common"
+    ]
+  },
+  {
+    "alias": "che",
+    "title": "Че",
+    "active": true,
+    "filename": "(R)Che.txt",
+    "lists": [
+      "common",
+      "che",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "es",
+    "title": "Eurosport",
+    "active": true,
+    "filename": "(R)ntv+13.txt",
+    "lists": [
+      "common",
+      "es",
+      "common"
+    ]
+  },
+  {
+    "alias": "ngc",
+    "title": "National Geographic",
+    "active": true,
+    "filename": "(R)ntv+20.txt",
+    "lists": [
+      "common",
+      "ngc",
+      "common"
+    ]
+  },
+  {
+    "alias": "ren",
+    "title": "\u0420\u0415\u041d",
+    "active": false,
+    "filename": "(R)RenTV_REG.txt",
+    "lists": [
+      "common",
+      "ren",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "retro",
+    "title": "Ретро",
+    "active": true,
+    "filename": "(R)Retro_MTU.txt",
+    "lists": [
+      "common",
+      "retro",
+      "common"
+    ]
+  },
+  {
+    "alias": "kanal12",
+    "title": "Канал 12",
+    "active": true,
+    "filename": "kanal12.txt",
+    "lists": [
+      "common",
+      "kanal12",
+      "common"
+    ]
+  },
+  {
+    "alias": "ohota",
+    "title": "Охота и рыбалка",
+    "active": true,
+    "filename": "(R)Ha&Fi_MTU.txt",
+    "lists": [
+      "common",
+      "ohota",
+      "common"
+    ]
+  },
+  {
+    "alias": "ri",
+    "remove": "^0[01234567].\\d\\d.*$",
+    "title": "Русский Иллюзион",
+    "active": true,
+    "filename": "(R)RU_ILLusio.txt",
+    "lists": [
+      "common",
+      "ri",
+      "common"
+    ]
+  },
+  {
+    "alias": "disney",
+    "title": "Disney",
+    "active": true,
+    "filename": "(R)Disney.txt",
+    "lists": [
+      "common",
+      "disney",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "tdk",
+    "title": "\u0422\u0414\u041a",
+    "active": true,
+    "filename": "(R)TDK.txt",
+    "lists": [
+      "common",
+      "tdk",
+      "common"
+    ]
+  },
+  {
+    "alias": "explorer",
+    "title": "Explorer",
+    "active": true,
+    "filename": "(R)Explorer.txt",
+    "lists": [
+      "common",
+      "explorer",
+      "common"
+    ]
+  },
+  {
+    "alias": "ort",
+    "title": "\u041f\u0435\u0440\u0432\u044b\u0439",
+    "active": true,
+    "filename": "(R)1TV.txt",
+    "lists": [
+      "common",
+      "ort",
+      "common"
+    ]
+  },
+  {
+    "alias": "zdtv",
+    "remove": "^0[1234567].\\d\\d.*$",
+    "title": "\u0417\u0434\u043e\u0440\u043e\u0432\u043e\u0435 \u0422\u0412",
+    "active": true,
+    "filename": "(R)Zdorov_MTU.txt",
+    "lists": [
+      "common",
+      "zdtv",
+      "common"
+    ]
+  },
+  {
+    "alias": "dc",
+    "title": "Discovery",
+    "active": true,
+    "filename": "(R)ntv+16.txt",
+    "lists": [
+      "common",
+      "dc",
+      "common"
+    ]
+  },
+  {
+    "alias": "ntv",
+    "title": "\u041d\u0422\u0412",
+    "active": true,
+    "filename": "(R)NTV.txt",
+    "lists": [
+      "common",
+      "ntv",
+      "common"
+    ]
+  },
+  {
+    "alias": "tv21",
+    "remove": "^0[01234].\\d\\d.*$",
+    "title": "XXI \u0432\u0435\u043a",
+    "active": true,
+    "filename": "(R)TV21.txt",
+    "lists": [
+      "common",
+      "tv21",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "kanal5",
+    "title": "\u041f\u044f\u0442\u044b\u0439",
+    "active": true,
+    "filename": "(R)Piter5_RUS.txt",
+    "lists": [
+      "common",
+      "kanal5",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "tv3",
+    "remove": "^0[12345678].\\d\\d.*$",
+    "title": "\u0422\u0412-3",
+    "active": true,
+    "filename": "(R)TV3_REG.txt",
+    "lists": [
+      "common",
+      "tv3",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "tnt",
+    "title": "\u0422\u041d\u0422",
+    "active": true,
+    "filename": "(R)TNT_REG.txt",
+    "lists": [
+      "common",
+      "tnt",
+      "common"
+    ]
+  },
+  {
+    "alias": "zvezda",
+    "title": "\u0417\u0432\u0435\u0437\u0434\u0430",
+    "active": true,
+    "filename": "(R)ZVEZDA.txt",
+    "lists": [
+      "common",
+      "zvezda",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "dom",
+    "title": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
+    "active": true,
+    "filename": "(R)DOMASHNIY.txt",
+    "lists": [
+      "common",
+      "dom",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "drive",
+    "remove": "^0[123456].\\d\\d.*$",
+    "title": "Drive",
+    "active": true,
+    "filename": "(R)Drive_MTU.txt",
+    "lists": [
+      "common",
+      "drive",
+      "common"
+    ]
+  },
+  {
+    "alias": "usadba",
+    "title": "Усадьба",
+    "active": true,
+    "filename": "(R)Usadba_MTU.txt",
+    "lists": [
+      "common",
+      "usadba",
+      "common"
+    ]
+  },
+  {
+    "alias": "u",
+    "title": "Ю",
+    "active": true,
+    "filename": "(R)U.txt",
+    "lists": [
+      "common",
+      "u",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "sts",
+    "title": "СТС",
+    "active": true,
+    "filename": "(R)STS.txt",
+    "lists": [
+      "common",
+      "sts",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "tv1000rk",
+    "title": "TV-1000 Русское Кино",
+    "active": true,
+    "filename": "(R)TV1000_RK.txt",
+    "lists": [
+      "common",
+      "tv1000rk",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "tvc",
+    "title": "ТВЦ",
+    "active": true,
+    "filename": "(R)TVC_REG.txt",
+    "lists": [
+      "common",
+      "tvc",
+      "movies",
+      "common"
+    ]
+  },
+  {
+    "alias": "history",
+    "title": "History",
+    "active": true,
+    "filename": "(R)History.txt",
+    "lists": [
+      "common",
+      "history",
+      "common"
+    ]
+  }
+]

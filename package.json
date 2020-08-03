@@ -1,0 +1,32 @@
+{
+  "name": "telegidjs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "compile": "ts-node compile.ts",
+    "clean": "./clean.sh",
+    "zip": "./zip.sh"
+  },
+  "dependencies": {
+    "cheerio": "latest",
+    "inquirer": "7.0.4",
+    "jade": "latest",
+    "request": "latest",
+    "string": "latest",
+    "watch": "latest"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "error-handler": "^1.0.0",
+    "express": "^4.15.2",
+    "fs-extra": "^2.1.2",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.8",
+    "socket.io": "^1.7.3",
+    "stylus": "^0.54.5",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.14.0",
+    "typescript": "^3.4.1"
+  }
+}

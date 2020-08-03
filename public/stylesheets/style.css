@@ -1,0 +1,47 @@
+body {
+  font: 9px "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #00b7ff;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+progress {
+  width: 500px;
+}
+.channels-list {
+  position: fixed;
+  width: 20%;
+  float: left;
+}
+.channels-list li {
+  display: block;
+  padding: 2px 10px;
+  cursor: pointer;
+  -webkit-transition: all 0.1s;
+}
+.channels-list li:hover {
+  background: #789;
+  color: #fff;
+}
+.channels-list li.selected {
+  background: #add8e6;
+}
+.content-wrapper {
+  float: right;
+  width: 75%;
+}
+.age {
+  background: #ff0;
+  display: inline-block;
+  float: right;
+}

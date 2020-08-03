@@ -1,0 +1,17 @@
+doctype html
+html(ng-app="telegidApp")
+  head
+    meta(charset='utf8')
+    base(href='/')
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src="/javascripts/socket.io.js")
+    script(src="/javascripts/angular.js")
+
+    script(src="/javascripts/app.js")
+    script(src="/javascripts/services.js")
+    script(src="/javascripts/controllers.js")
+    script(src="/javascripts/filters.js")
+    script(src="/javascripts/directives.js")
+  body(ng-controller='AppCtrl')
+    block content
