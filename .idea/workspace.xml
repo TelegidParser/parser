@@ -1,81 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channels.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clean.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compile.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ap.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/che.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/common.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/dc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/disney.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/diva.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/dm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/dom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/drama.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/drive.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/dva.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/es.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/explorer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/history.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/kanal5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/karusel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/khl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/kultura.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/match.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/movies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/movies.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ngc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ntv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ohota.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ort.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/perez.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ren.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/retro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/ri.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/rm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/rtr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/rtrsport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/rtv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/rusever.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/sts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tdk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tnt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tv1000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tv1000rk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tv21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tv3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/tvc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/usadba.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/zdtv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/zvezda.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/angular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/directives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/socket.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/breakIntoDays.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/convertToXml.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/layout.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/channel-content.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zip.sh" afterDir="false" />
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/data/in/kanal12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/che.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/che.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/kanal12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/zvezda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/zvezda.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +60,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -216,6 +150,7 @@
       <item itemvalue="Node.js.app.js" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -487,12 +422,26 @@
       <workItem from="1595432268323" duration="12000" />
       <workItem from="1595868409402" duration="1122000" />
       <workItem from="1595968895548" duration="8000" />
-      <workItem from="1596462406175" duration="308000" />
+      <workItem from="1596462406175" duration="1901000" />
+      <workItem from="1596534542627" duration="24000" />
+      <workItem from="1597080556847" duration="618000" />
+      <workItem from="1597685420035" duration="1003000" />
+      <workItem from="1597697004792" duration="4000" />
+      <workItem from="1598288795250" duration="1321000" />
+      <workItem from="1598367597479" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1596464474864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596464474864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -502,31 +451,45 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="254" key="GridCell.Tab.0.bottom" timestamp="1595880394604">
-      <screen x="1920" y="23" width="1920" height="1177" />
+    <state x="575" y="305" key="CommitChangelistDialog2" timestamp="1596464474525">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.bottom/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1591040671155" />
+    <state x="575" y="305" key="CommitChangelistDialog2/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1596464474525" />
+    <state width="1899" height="254" key="GridCell.Tab.0.bottom" timestamp="1598306735715">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1899" height="254" key="GridCell.Tab.0.bottom/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1598306735715" />
     <state width="1899" height="254" key="GridCell.Tab.0.bottom/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394604" />
-    <state width="1899" height="254" key="GridCell.Tab.0.center" timestamp="1595880394602">
-      <screen x="1920" y="23" width="1920" height="1177" />
+    <state width="1899" height="254" key="GridCell.Tab.0.center" timestamp="1598306735714">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.center/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1591040671151" />
+    <state width="1899" height="254" key="GridCell.Tab.0.center/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1598306735714" />
     <state width="1899" height="254" key="GridCell.Tab.0.center/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394602" />
-    <state width="1899" height="254" key="GridCell.Tab.0.left" timestamp="1595880394602">
-      <screen x="1920" y="23" width="1920" height="1177" />
+    <state width="1899" height="254" key="GridCell.Tab.0.left" timestamp="1598306735713">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.left/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1591040671150" />
+    <state width="1899" height="254" key="GridCell.Tab.0.left/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1598306735713" />
     <state width="1899" height="254" key="GridCell.Tab.0.left/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394602" />
-    <state width="1899" height="254" key="GridCell.Tab.0.right" timestamp="1595880394603">
-      <screen x="1920" y="23" width="1920" height="1177" />
+    <state width="1899" height="254" key="GridCell.Tab.0.right" timestamp="1598306735714">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.right/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1591040671154" />
+    <state width="1899" height="254" key="GridCell.Tab.0.right/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1598306735714" />
     <state width="1899" height="254" key="GridCell.Tab.0.right/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394603" />
-    <state x="2545" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1594661185571">
-      <screen x="1920" y="23" width="1920" height="1177" />
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2" timestamp="1596464477667">
+      <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1590426483691" />
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1596464477667" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1598289497142">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1598289497142" />
     <state x="2545" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1594661185571" />
   </component>
 </project>
