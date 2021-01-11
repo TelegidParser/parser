@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node app.js",
+    "fetch": "yarn -cwd /Users/sergeibasharov/works/tv/telegidorg fetchpy",
+    "fetchpy": "python /Users/sergeibasharov/works/tv/telegidorg/get.py",
     "compile": "ts-node compile.ts",
     "clean": "./clean.sh",
     "zip": "./zip.sh"

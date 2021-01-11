@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Updated lists">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/che.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/che.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/karusel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/karusel.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/movies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip.sh" beforeDir="false" afterPath="$PROJECT_DIR$/zip.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +40,6 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1OhAwfq0UscXZ6VQuZlyRda1WlI" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state />
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -58,8 +55,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -76,7 +73,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -432,7 +429,39 @@
       <workItem from="1598990779056" duration="66000" />
       <workItem from="1599498605630" duration="2198000" />
       <workItem from="1600077941866" duration="9000" />
-      <workItem from="1600104730624" duration="1036000" />
+      <workItem from="1600104730624" duration="2021000" />
+      <workItem from="1600153489218" duration="364000" />
+      <workItem from="1600708488105" duration="1640000" />
+      <workItem from="1600761313672" duration="497000" />
+      <workItem from="1601314014159" duration="1468000" />
+      <workItem from="1601366461801" duration="70000" />
+      <workItem from="1601917275973" duration="1129000" />
+      <workItem from="1601968454813" duration="36000" />
+      <workItem from="1602524041646" duration="1543000" />
+      <workItem from="1602577822046" duration="8000" />
+      <workItem from="1603127163848" duration="639000" />
+      <workItem from="1603734586562" duration="642000" />
+      <workItem from="1604336335109" duration="1325000" />
+      <workItem from="1604388839060" duration="50000" />
+      <workItem from="1604939095998" duration="1144000" />
+      <workItem from="1604997652284" duration="14000" />
+      <workItem from="1605548332622" duration="646000" />
+      <workItem from="1606152622966" duration="755000" />
+      <workItem from="1606755703239" duration="1172000" />
+      <workItem from="1606813899094" duration="36000" />
+      <workItem from="1607359872064" duration="3000" />
+      <workItem from="1607359880009" duration="1683000" />
+      <workItem from="1607413886846" duration="86000" />
+      <workItem from="1607965921824" duration="2476000" />
+      <workItem from="1607970283924" duration="598000" />
+      <workItem from="1608019331120" duration="134000" />
+      <workItem from="1608571034290" duration="3269000" />
+      <workItem from="1608625787843" duration="266000" />
+      <workItem from="1609175872209" duration="257000" />
+      <workItem from="1609177443037" duration="3313000" />
+      <workItem from="1609787454189" duration="833000" />
+      <workItem from="1609228046911" duration="212000" />
+      <workItem from="1610384828362" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
@@ -455,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599501009086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated lists">
+      <created>1600105850073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600105850073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,44 +511,5 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="Updated lists" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated lists" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="575" y="305" key="CommitChangelistDialog2" timestamp="1599501008745">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="575" y="305" key="CommitChangelistDialog2/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599501008745" />
-    <state x="190" y="130" key="DiffContextDialog" timestamp="1599501006001">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="190" y="130" key="DiffContextDialog/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599501006001" />
-    <state width="1899" height="254" key="GridCell.Tab.0.bottom" timestamp="1599509151476">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.bottom/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599509151476" />
-    <state width="1899" height="254" key="GridCell.Tab.0.bottom/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394604" />
-    <state width="1899" height="254" key="GridCell.Tab.0.center" timestamp="1599509151474">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.center/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599509151474" />
-    <state width="1899" height="254" key="GridCell.Tab.0.center/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394602" />
-    <state width="1899" height="254" key="GridCell.Tab.0.left" timestamp="1599509151473">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.left/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599509151473" />
-    <state width="1899" height="254" key="GridCell.Tab.0.left/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394602" />
-    <state width="1899" height="254" key="GridCell.Tab.0.right" timestamp="1599509151475">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1899" height="254" key="GridCell.Tab.0.right/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599509151475" />
-    <state width="1899" height="254" key="GridCell.Tab.0.right/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1595880394603" />
-    <state x="560" y="351" key="Vcs.Push.Dialog.v2" timestamp="1599501010427">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="560" y="351" key="Vcs.Push.Dialog.v2/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1599501010427" />
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1600105787151">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1177/0.23.1920.1177@0.23.1920.1177" timestamp="1600105787151" />
-    <state x="2545" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1594661185571" />
   </component>
 </project>
