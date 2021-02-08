@@ -59,6 +59,8 @@ module.exports = function (socket) {
                     })
                     programme.string += '.'
                     programme.string = programme.string.replace(/\s+/g, ' ')
+                    programme.string = programme.string.replace(/«/g, '"')
+                    programme.string = programme.string.replace(/»/g, '"')
                     programme.string = programme.string.replace(/ё/g, 'е')
                     programme.string = programme.string.replace(/Ё/g, 'Е')
                     programme.string = programme.string.replace(/…./g, '…')
