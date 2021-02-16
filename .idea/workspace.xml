@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Updated lists, code cleanup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/kanal12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -472,7 +472,8 @@
       <workItem from="1612252442464" duration="87000" />
       <workItem from="1612803934105" duration="2255000" />
       <workItem from="1612853592772" duration="517000" />
-      <workItem from="1613406022545" duration="40000" />
+      <workItem from="1613406022545" duration="2156000" />
+      <workItem from="1613462233882" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
@@ -523,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612805414904</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated lists, code cleanup">
+      <created>1613406251854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613406251854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
