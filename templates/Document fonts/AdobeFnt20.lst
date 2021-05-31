@@ -1,0 +1,1054 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSetC-Bold
+FamilyName:FreeSetC
+StyleName:PT
+MenuName:FreeSetC
+StyleBits:0
+FullName:PT FreeSet Bold Cyrillic
+FamilyNameNative:
+StyleNameNative:PT
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRS65.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32301
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Webdings
+FamilyName:Webdings
+StyleName:Regular
+MenuName:Webdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Webdings
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/webdings.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:121664
+FileModTime:581883488
+NameArray:0,Mac,4,Webdings
+NameArray:0,Win,1,Webdings
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:PragmaticaC
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG55.PFM
+FileLength:2176
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCompPro-Regular
+FamilyName:PF Din Text Comp Pro
+StyleName:Regular
+MenuName:PF Din Text Comp Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PFDinTextCompPro-Regular
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCompPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:443684
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCompPro-Regular
+NameArray:0,Win,1,PF Din Text Comp Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-XThinItalic
+FamilyName:PF Din Text Cond Pro
+StyleName:Extra Thin Italic
+MenuName:PF Din Text Cond Pro X Thin
+StyleBits:1
+WeightClass:100
+WidthClass:5
+AngleClass:1
+FullName:PFDinTextCondPro-XThinItalic
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-XThinItal.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:581172
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCondPro-XThinItalic
+NameArray:0,Win,1,PF Din Text Cond Pro X Thin
+NameArray:0,Win,16,PF Din Text Cond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:FreeSetC-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRS65.PFM
+FileLength:681
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt19.lst
+FileLength:18460
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PragmaticaC
+FamilyName:PragmaticaC
+StyleName:PT
+MenuName:PragmaticaC
+StyleBits:0
+FullName:PT Pragmatica Medium Cyrillic 
+FamilyNameNative:
+StyleNameNative:PT
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG55.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33216
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-LightItalic
+FamilyName:PF Din Text Cond Pro
+StyleName:Light Italic
+MenuName:PF Din Text Cond Pro Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:PFDinTextCondPro-LightItalic
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-LightItal.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:467720
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCondPro-LightItalic
+NameArray:0,Win,1,PF Din Text Cond Pro Light
+NameArray:0,Win,16,PF Din Text Cond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Vaccine-Light
+FamilyName:Vaccine
+StyleName:Light
+MenuName:Vaccine Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Vaccine Light
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/VCN45.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:120112
+FileModTime:581883488
+NameArray:0,Mac,4,Vaccine Light
+NameArray:0,Win,1,Vaccine Light
+NameArray:0,Win,16,Vaccine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-ExtraLight
+FamilyName:Circe
+StyleName:Extra Light
+MenuName:Circe Extra Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Circe Extra Light
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC25.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:407472
+FileModTime:581883488
+NameArray:0,Mac,4,Circe Extra Light
+NameArray:0,Win,1,Circe Extra Light
+NameArray:0,Win,16,Circe
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios-Italic
+FamilyName:Helios
+StyleName:Italic
+MenuName:Helios
+StyleBits:0
+FullName:Helios Italic
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____O.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32131
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt20.lst
+FileLength:22660
+FileModTime:589138593
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HeliosCond
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN___.PFM
+FileLength:2326
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt21.lst
+FileLength:22471
+FileModTime:581885803
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios-Italic
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____O.PFM
+FileLength:2749
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeliosCond
+FamilyName:HeliosCond
+MenuName:HeliosCond
+StyleBits:0
+FullName:HeliosCond
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31854
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______.PFM
+FileLength:2742
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:NewsPaperC
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP45.pfm
+FileLength:682
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FranklinGothicBookC
+FamilyName:FranklinGothicBookC
+StyleName:ITC
+MenuName:FranklinGothicBookC
+StyleBits:0
+FullName:ITC Franklin Gothic Book Cyrillic
+FamilyNameNative:
+StyleNameNative:ITC
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG55_0.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38111
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/Document fonts.zip
+FileLength:127684
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-XThin
+FamilyName:PF Din Text Cond Pro
+StyleName:Extra Thin
+MenuName:PF Din Text Cond Pro X Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:PFDinTextCondPro-XThin
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-XThin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:561252
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCondPro-XThin
+NameArray:0,Win,1,PF Din Text Cond Pro X Thin
+NameArray:0,Win,16,PF Din Text Cond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-Regular
+FamilyName:Circe
+StyleName:Regular
+MenuName:Circe
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Circe
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC55.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:407180
+FileModTime:581883488
+NameArray:0,Mac,4,Circe
+NameArray:0,Win,1,Circe
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-Regular
+FamilyName:PF Din Text Cond Pro
+StyleName:Regular
+MenuName:PF Din Text Cond Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PFDinTextCondPro-Regular
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:445892
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCondPro-Regular
+NameArray:0,Win,1,PF Din Text Cond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios
+FamilyName:Helios
+MenuName:Helios
+StyleBits:0
+FullName:Helios
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33496
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NewsPaperC
+FamilyName:NewsPaperC
+MenuName:NewsPaperC
+StyleBits:0
+FullName:NewsPaperC
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP45.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33065
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:FranklinGothicBookC
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG55_0.PFM
+FileLength:3144
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HeliosBlack
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___0.PFM
+FileLength:2240
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OfficinaSansC-Book
+FamilyName:OfficinaSansC
+StyleName:ITC
+MenuName:OfficinaSansC
+StyleBits:0
+FullName:ITC Officina Sans Book Cyrillic
+FamilyNameNative:
+StyleNameNative:ITC
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN45.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44153
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:FranklinGothicDemiC
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG75_0.PFM
+FileLength:2612
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:OfficinaSansC-Book
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN45.PFM
+FileLength:3229
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeliosBlack
+FamilyName:HeliosBlack
+MenuName:HeliosBlack
+StyleBits:0
+FullName:HeliosBlack
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34597
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-Bold
+FamilyName:PF Din Text Cond Pro
+StyleName:Bold
+MenuName:PF Din Text Cond Pro
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:PFDinTextCondPro-Bold
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:406416
+FileModTime:581883488
+NameArray:0,Mac,4,PFDinTextCondPro-Bold
+NameArray:0,Win,1,PF Din Text Cond Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGGloriaC-Bold
+FamilyName:AGGloriaC
+StyleName:Bold
+MenuName:AGGloriaC
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:AGGloriaC Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AGGloria-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23040
+FileModTime:581883488
+NameArray:0,Mac,4,AGGloriaC Bold
+NameArray:0,Win,1,AGGloriaC
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FranklinGothicDemiC
+FamilyName:FranklinGothicDemiC
+StyleName:ITC
+MenuName:FranklinGothicDemiC
+StyleBits:0
+FullName:ITC Franklin Gothic Demi Cyrillic
+FamilyNameNative:
+StyleNameNative:ITC
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG75_0.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39837
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:NewsPaperC-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP65.pfm
+FileLength:687
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeliosBlack
+FamilyName:HeliosBlack
+MenuName:HeliosBlack
+StyleBits:0
+FullName:HeliosBlack
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34597
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGGloriaC
+FamilyName:AGGloriaC
+StyleName:Regular
+MenuName:AGGloriaC
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:AGGloriaC
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AGGloria_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22848
+FileModTime:581883488
+NameArray:0,Mac,4,AGGloriaC
+NameArray:0,Win,1,AGGloriaC
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HeliosBlack
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___.PFM
+FileLength:2240
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NewsPaperC-Bold
+FamilyName:NewsPaperC
+StyleName:Bold
+MenuName:NewsPaperC
+StyleBits:0
+FullName:NewsPaperC Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP65.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34123
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OfficinaSansC-Bold
+FamilyName:OfficinaSansC
+StyleName:ITC
+MenuName:OfficinaSansC
+StyleBits:0
+FullName:ITC Officina Sans Bold Cyrillic
+FamilyNameNative:
+StyleNameNative:ITC
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN65.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44143
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:OfficinaSansC-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN65.PFM
+FileLength:3009
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-Bold
+FamilyName:Circe
+StyleName:Bold
+MenuName:Circe Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Circe Bold
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC65.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:416088
+FileModTime:581883488
+NameArray:0,Mac,4,Circe Bold
+NameArray:0,Win,1,Circe Bold
+NameArray:0,Win,16,Circe
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HeliosCond
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN__.PFM
+FileLength:2326
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt13.lst
+FileLength:4709
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios-Bold
+FamilyName:Helios
+StyleName:Bold
+MenuName:Helios
+StyleBits:0
+FullName:Helios Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34189
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:PragmaticaC-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG75.PFM
+FileLength:2221
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____B.PFM
+FileLength:2299
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Vaccine-Bold
+FamilyName:Vaccine
+StyleName:Bold
+MenuName:Vaccine Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Vaccine Bold
+WritingScript:Roman
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/VCN75.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122476
+FileModTime:581883488
+NameArray:0,Mac,4,Vaccine Bold
+NameArray:0,Win,1,Vaccine Bold
+NameArray:0,Win,16,Vaccine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeliosCond
+FamilyName:HeliosCond
+MenuName:HeliosCond
+StyleBits:0
+FullName:HeliosCond
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN__.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31854
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios-Bold
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE___.PFM
+FileLength:2299
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PragmaticaC-Bold
+FamilyName:PragmaticaC
+StyleName:PT
+MenuName:PragmaticaC
+StyleBits:0
+FullName:PT Pragmatica Bold Cyrillic 
+FamilyNameNative:
+StyleNameNative:PT
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG75.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34473
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios-Bold
+FamilyName:Helios
+StyleName:Bold
+MenuName:Helios
+StyleBits:0
+FullName:Helios Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____B.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34189
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios
+FamilyName:Helios
+MenuName:Helios
+StyleBits:0
+FullName:Helios
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33496
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt15.lst
+FileLength:17198
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt14.lst
+FileLength:12643
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios
+FamilyName:Helios
+MenuName:Helios
+StyleBits:0
+FullName:Helios
+FamilyNameNative:
+StyleNameNative:
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______0.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33496
+FileModTime:581883488
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____0.PFM
+FileLength:2742
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt16.lst
+FileLength:17198
+FileModTime:581883488
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios
+NumMMAxes:0
+OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______0.PFM
+FileLength:2742
+FileModTime:581883488
+%EndFont
+

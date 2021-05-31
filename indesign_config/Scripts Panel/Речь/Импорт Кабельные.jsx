@@ -1,0 +1,1 @@
+﻿xml_folder="/Users/sergeibasharov/WebstormProjects/telegidjs/data/xml";doc=app.activeDocument;doc.importXML (xml_folder+"/rc_01_education.xml");doc.importXML (xml_folder+"/rc_02_movies.xml");doc.importXML (xml_folder+"/rc_03_entertainment.xml");doc.importXML (xml_folder+"/rc_04_children.xml");doc.importXML (xml_folder+"/rc_05_sport.xml");

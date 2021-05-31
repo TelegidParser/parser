@@ -1,0 +1,212 @@
+%!Adobe-FontList 1.13
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-ExtraLight
+FamilyName:Circe
+StyleName:Extra Light
+FullName:Circe Extra Light
+MenuName:Circe Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\CRC25.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:407472
+FileModTime:1334124278
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-Regular
+FamilyName:Circe
+StyleName:Regular
+FullName:Circe
+MenuName:Circe
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\CRC55.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:407180
+FileModTime:1334124282
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Circe-Bold
+FamilyName:Circe
+StyleName:Bold
+FullName:Circe Bold
+MenuName:Circe Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\CRC65.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:416088
+FileModTime:1334124282
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helios-Bold
+FamilyName:Helios
+StyleName:Bold
+FullName:Helios Bold
+MenuName:Helios
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\HE___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:34189
+FileModTime:853963200
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helios-Bold
+NumMMAxes:0
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\HE___.PFM
+FileLength:2299
+FileModTime:1085590300
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCompPro-Regular
+FamilyName:PF Din Text Comp Pro
+StyleName:Regular
+FullName:PFDinTextCompPro-Regular
+MenuName:PF Din Text Comp Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCompPro-Regular.ttf
+DataFormat:sfntData
+FileLength:443684
+FileModTime:1398945942
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-Bold
+FamilyName:PF Din Text Cond Pro
+StyleName:Bold
+FullName:PFDinTextCondPro-Bold
+MenuName:PF Din Text Cond Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCondPro-Bold.ttf
+DataFormat:sfntData
+FileLength:406416
+FileModTime:1398945923
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-LightItalic
+FamilyName:PF Din Text Cond Pro
+StyleName:Light Italic
+FullName:PFDinTextCondPro-LightItalic
+MenuName:PF Din Text Cond Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCondPro-LightItal.ttf
+DataFormat:sfntData
+FileLength:467720
+FileModTime:1398945933
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-Regular
+FamilyName:PF Din Text Cond Pro
+StyleName:Regular
+FullName:PFDinTextCondPro-Regular
+MenuName:PF Din Text Cond Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCondPro-Regular.ttf
+DataFormat:sfntData
+FileLength:445892
+FileModTime:1398945940
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-XThin
+FamilyName:PF Din Text Cond Pro
+StyleName:Extra Thin
+FullName:PFDinTextCondPro-XThin
+MenuName:PF Din Text Cond Pro X Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCondPro-XThin.ttf
+DataFormat:sfntData
+FileLength:561252
+FileModTime:1398945932
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PFDinTextCondPro-XThinItalic
+FamilyName:PF Din Text Cond Pro
+StyleName:Extra Thin Italic
+FullName:PFDinTextCondPro-XThinItalic
+MenuName:PF Din Text Cond Pro X Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\ds.godunov\Desktop\The_3_fonts Folder\Document fonts\PFDinTextCondPro-XThinItal.ttf
+DataFormat:sfntData
+FileLength:581172
+FileModTime:1398945933
+WeightClass:100
+WidthClass:5
+AngleClass:1
+%EndFont
+

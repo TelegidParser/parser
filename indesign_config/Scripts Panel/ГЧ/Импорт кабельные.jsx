@@ -1,0 +1,1 @@
+﻿myDoc = app.activeDocument;var path="/Users/sergeibasharov/WebstormProjects/telegidjs/data/xml/";load("gc_01_movies.xml");load("gc_02_children.xml");load("gc_03_sport.xml");load("gc_04_music.xml");load("gc_05_education.xml");load("gc_06_entertainment.xml");function load(xmlfile){    file = File(path+xmlfile);	if (file.exists) {myDoc.importXML(path+xmlfile)}	}
