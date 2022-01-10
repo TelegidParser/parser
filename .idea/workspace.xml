@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Updated lists">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tdk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tdk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" afterPath="$PROJECT_DIR$/channels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/friday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/kanal12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tvc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tvc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +47,41 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
   <component name="ProjectId" id="1OhAwfq0UscXZ6VQuZlyRda1WlI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="telegidjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegidjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telegidjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegidjs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telegidjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegidjs" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -58,12 +93,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/data/in/rusever.txt&#10;/Users/sergeibasharov/WebstormProjects/telegidjs/data/in/ntv.txt" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="javascript.nodejs.core.library.configured.version" value="15.8.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="15.3.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.24" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/in" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,15 +112,14 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/in" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lists" />
       <recent name="$PROJECT_DIR$/bak" />
       <recent name="$PROJECT_DIR$/data/bak" />
@@ -504,6 +539,32 @@
       <workItem from="1621324916782" duration="4000" />
       <workItem from="1621877143723" duration="83000" />
       <workItem from="1621877408686" duration="1336000" />
+      <workItem from="1622482716282" duration="60000" />
+      <workItem from="1622620161829" duration="38000" />
+      <workItem from="1623081622834" duration="2377000" />
+      <workItem from="1623135740279" duration="8000" />
+      <workItem from="1623429027051" duration="3841000" />
+      <workItem from="1624295903090" duration="2323000" />
+      <workItem from="1626711226399" duration="4738000" />
+      <workItem from="1627320743090" duration="2185000" />
+      <workItem from="1627924141856" duration="2537000" />
+      <workItem from="1628530192360" duration="1370000" />
+      <workItem from="1629135868647" duration="2798000" />
+      <workItem from="1630343319364" duration="3788000" />
+      <workItem from="1631554598236" duration="3053000" />
+      <workItem from="1632183111454" duration="2684000" />
+      <workItem from="1633369202475" duration="1253000" />
+      <workItem from="1633973003847" duration="1452000" />
+      <workItem from="1634576656713" duration="3175000" />
+      <workItem from="1635789203076" duration="33000" />
+      <workItem from="1635789335393" duration="1673000" />
+      <workItem from="1636397711578" duration="1328000" />
+      <workItem from="1636998133627" duration="4516000" />
+      <workItem from="1638207407671" duration="1797000" />
+      <workItem from="1638811927129" duration="12000" />
+      <workItem from="1638811944156" duration="3168000" />
+      <workItem from="1639421207349" duration="187000" />
+      <workItem from="1640021305959" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
@@ -571,6 +632,27 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.32971668" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32894737" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
@@ -589,5 +671,21 @@
     <MESSAGE value="Updated lists, code cleanup" />
     <MESSAGE value="Updated lists" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated lists" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

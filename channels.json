@@ -422,7 +422,6 @@
     "active": true,
     "filename": "(R)TVC_REG.txt",
     "lists": [
-      "common",
       "tvc",
       "movies",
       "common"
