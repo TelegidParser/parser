@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Updated lists">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" afterPath="$PROJECT_DIR$/channels.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/friday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/kanal12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tvc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tvc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tnt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tnt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tv21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tv21.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +108,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -564,7 +561,9 @@
       <workItem from="1638811927129" duration="12000" />
       <workItem from="1638811944156" duration="3168000" />
       <workItem from="1639421207349" duration="187000" />
-      <workItem from="1640021305959" duration="6433000" />
+      <workItem from="1640021305959" duration="10352000" />
+      <workItem from="1643045506486" duration="4334000" />
+      <workItem from="1643652628199" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
@@ -629,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613462394649</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated lists">
+      <created>1641820531366</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641820531366</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
