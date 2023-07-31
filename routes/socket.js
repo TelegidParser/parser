@@ -11,7 +11,7 @@ module.exports = function (socket) {
 
     })
     socket.emit('init', {
-        channels: channels
+        channels: channels.filter(channel => channel.active === true)
     })
 
     socket.on('disconnect', function () {

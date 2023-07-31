@@ -12,6 +12,17 @@
     ]
   },
   {
+    "alias": "kuhna",
+    "title": "Кухня ТВ",
+    "active": true,
+    "filename": "(R)Kuhna.txt",
+    "lists": [
+      "common",
+      "kuhna",
+      "common"
+    ]
+  },
+  {
     "alias": "rusever",
     "title": "Русский Север",
     "active": true,
@@ -19,6 +30,17 @@
     "lists": [
       "common",
       "rusever",
+      "common"
+    ]
+  },
+  {
+    "alias": "spas",
+    "title": "Спас",
+    "active": true,
+    "filename": "spas.txt",
+    "lists": [
+      "common",
+      "spas",
       "common"
     ]
   },
@@ -69,29 +91,6 @@
     ]
   },
   {
-    "alias": "ap",
-    "title": "Animal Planet",
-    "active": true,
-    "filename": "(R)ntv+17.txt",
-    "lists": [
-      "common",
-      "ap",
-      "common"
-    ]
-  },
-  {
-    "alias": "rtv",
-    "remove": "^0[678].\\d\\d.*$",
-    "title": "Reality",
-    "active": true,
-    "filename": "(R)Reality.txt",
-    "lists": [
-      "common",
-      "rtv",
-      "common"
-    ]
-  },
-  {
     "alias": "match",
     "title": "Матч ТВ",
     "active": true,
@@ -127,31 +126,9 @@
     ]
   },
   {
-    "alias": "es",
-    "title": "Eurosport",
-    "active": true,
-    "filename": "(R)ntv+13.txt",
-    "lists": [
-      "common",
-      "es",
-      "common"
-    ]
-  },
-  {
-    "alias": "ngc",
-    "title": "National Geographic",
-    "active": true,
-    "filename": "(R)ntv+20.txt",
-    "lists": [
-      "common",
-      "ngc",
-      "common"
-    ]
-  },
-  {
     "alias": "ren",
-    "title": "\u0420\u0415\u041d",
-    "active": false,
+    "title": "РЕН",
+    "active": true,
     "filename": "(R)RenTV_REG.txt",
     "lists": [
       "common",
@@ -168,6 +145,17 @@
     "lists": [
       "common",
       "retro",
+      "common"
+    ]
+  },
+  {
+    "alias": "mir",
+    "title": "Мир",
+    "active": true,
+    "filename": "(R)MIR.txt",
+    "lists": [
+      "common",
+      "mir",
       "common"
     ]
   },
@@ -208,7 +196,7 @@
   {
     "alias": "disney",
     "title": "Disney",
-    "active": true,
+    "active": false,
     "filename": "(R)Disney.txt",
     "lists": [
       "common",
@@ -218,8 +206,20 @@
     ]
   },
   {
+    "alias": "detmir",
+    "title": "Детский мир",
+    "active": true,
+    "filename": "(R)Detmir24.txt",
+    "lists": [
+      "common",
+      "detmir",
+      "movies",
+      "common"
+    ]
+  },
+  {
     "alias": "tdk",
-    "title": "\u0422\u0414\u041a",
+    "title": "ТДК",
     "active": true,
     "filename": "(R)TDK.txt",
     "lists": [
@@ -229,19 +229,8 @@
     ]
   },
   {
-    "alias": "explorer",
-    "title": "Explorer",
-    "active": true,
-    "filename": "(R)Explorer.txt",
-    "lists": [
-      "common",
-      "explorer",
-      "common"
-    ]
-  },
-  {
     "alias": "ort",
-    "title": "\u041f\u0435\u0440\u0432\u044b\u0439",
+    "title": "Первый",
     "active": true,
     "filename": "(R)1TV.txt",
     "lists": [
@@ -253,23 +242,12 @@
   {
     "alias": "zdtv",
     "remove": "^0[1234567].\\d\\d.*$",
-    "title": "\u0417\u0434\u043e\u0440\u043e\u0432\u043e\u0435 \u0422\u0412",
+    "title": "ЗдоровоеТВ",
     "active": true,
     "filename": "(R)Zdorov_MTU.txt",
     "lists": [
       "common",
       "zdtv",
-      "common"
-    ]
-  },
-  {
-    "alias": "dc",
-    "title": "Discovery",
-    "active": true,
-    "filename": "(R)ntv+16.txt",
-    "lists": [
-      "common",
-      "dc",
       "common"
     ]
   },
@@ -287,7 +265,7 @@
   {
     "alias": "tv21",
     "remove": "^0[01234].\\d\\d.*$",
-    "title": "XXI \u0432\u0435\u043a",
+    "title": "XXI век",
     "active": true,
     "filename": "(R)TV21.txt",
     "lists": [
@@ -299,7 +277,7 @@
   },
   {
     "alias": "kanal5",
-    "title": "\u041f\u044f\u0442\u044b\u0439",
+    "title": "Пятый",
     "active": true,
     "filename": "(R)Piter5_RUS.txt",
     "lists": [
@@ -312,7 +290,7 @@
   {
     "alias": "tv3",
     "remove": "^0[12345678].\\d\\d.*$",
-    "title": "\u0422\u0412-3",
+    "title": "ТВ-3",
     "active": true,
     "filename": "(R)TV3_REG.txt",
     "lists": [
@@ -324,7 +302,7 @@
   },
   {
     "alias": "tnt",
-    "title": "\u0422\u041d\u0422",
+    "title": "ТНТ",
     "active": true,
     "filename": "(R)TNT_REG.txt",
     "lists": [
@@ -335,7 +313,7 @@
   },
   {
     "alias": "zvezda",
-    "title": "\u0417\u0432\u0435\u0437\u0434\u0430",
+    "title": "Звезда",
     "active": true,
     "filename": "(R)ZVEZDA.txt",
     "lists": [
@@ -347,7 +325,7 @@
   },
   {
     "alias": "dom",
-    "title": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
+    "title": "Домашний",
     "active": true,
     "filename": "(R)DOMASHNIY.txt",
     "lists": [
