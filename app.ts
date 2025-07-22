@@ -20,7 +20,6 @@ app.get('/', routes.index);
 app.get('/partials/channel-content', routes.channel_content);
 
 
-app.use(require('stylus').middleware(__dirname + '/public'));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(bodyParser());

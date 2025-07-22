@@ -8,6 +8,16 @@ export const Days = [
     'Воскресенье',
 ];
 
+export const DaysShort = [
+    'пн',
+    'вт',
+    'ср',
+    'чт',
+    'пт',
+    'сб',
+    'вс',
+];
+
 export const breakIntoDays = (channelContent: string): string[][] => {
     const lines = channelContent.split('\n').filter((line) => line.length > 0);
     const separators = [];

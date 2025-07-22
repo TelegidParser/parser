@@ -40,9 +40,9 @@ function AppCtrl($scope, socket) {
         });
     };
 
-    $scope.processChannel = function (filename) {
+    $scope.processChannel = function (channelId) {
         socket.emit('channel:process', {
-            filename
+            channelId
         });
     };
 

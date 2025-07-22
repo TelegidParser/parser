@@ -1,21 +1,22 @@
-import { join } from "path";
-import { inPath } from "../globals";
+import { join } from 'path'
+import { inPath, txtPath } from '../globals'
+import { Channels } from '../src/config/Channels'
+import { each, keys } from 'lodash'
+import { existsSync, readFile, readFileSync, writeFileSync } from 'fs'
 
-const channels = require('../channels');
-const S = require('string');
-const _ = require('lodash');
-const fs = require('fs');
+const S = require('string')
+const _ = require('lodash')
+const fs = require('fs')
 
 module.exports = function (socket) {
-  _.each(channels, function (element, index) {
-    fs.exists(join(inPath, element.filename), function (exists) {
-      channels[index].exists = exists
-    })
+  const channelsIds = keys(Channels)
 
+  each(channelsIds, (channelId) => {
+    Channels[channelId].exists = existsSync(join(inPath, `${channelId}.txt`))
   })
 
   socket.emit('init', {
-    channels: channels.filter(channel => channel.active === true)
+    channels: Channels
   })
 
   socket.on('disconnect', function () {
@@ -23,28 +24,30 @@ module.exports = function (socket) {
       name: '1'
     })
   })
-  socket.on('channel:process', function (data: { filename: string }) {
-    console.log('channel:process: ' + data.filename)
-    const corrections_list = loadCorrectionsLists(data.filename);
-    fs.readFile(join(inPath, data.filename), { encoding: 'utf-8' }, function (err, content) {
+
+  socket.on('channel:process', function (data: { channelId: string }) {
+    console.log(data)
+    console.log('channel:process: ' + data.channelId)
+    const corrections_list = loadCorrectionsLists(data.channelId)
+    readFile(join(inPath, `${data.channelId}.txt`), { encoding: 'utf-8' }, function (err, content) {
       if (err) throw err
       content = content.replace(/\r\n/g, '\n')
-      const lines = content.split('\n');
-      const updated = [];
+      const lines = content.split('\n')
+      const updated = []
       _.each(lines, function (element, index, list) {
         element = element.replace(/^\s*(\d)[:.](\d\d)/g, '0$1.$2')
-        const time_pattern = /^\s*(\d\d)[.:](\d\d)\s*(.*)\s*$/g;
-        const day_pattern = /^\s*(ПОНЕДЕЛЬНИК|ВТОРНИК|СРЕДА|ЧЕТВЕРГ|ПЯТНИЦА|СУББОТА|ВОСКРЕСЕНЬЕ|Понедельник|Вторник|Среда|Четверг|Пятница|Суббота|Воскресенье).*$/g;
-        const age_pattern = /\[?\(?(0|6|12|16|18)\s*\+\)?\]?/g;
-        const match_programme = time_pattern.exec(element);
-        const match_day = day_pattern.exec(element);
+        const time_pattern = /^\s*(\d\d)[.:](\d\d)\s*(.*)\s*$/g
+        const day_pattern = /^\s*(ПОНЕДЕЛЬНИК|ВТОРНИК|СРЕДА|ЧЕТВЕРГ|ПЯТНИЦА|СУББОТА|ВОСКРЕСЕНЬЕ|Понедельник|Вторник|Среда|Четверг|Пятница|Суббота|Воскресенье).*$/g
+        const age_pattern = /\[?\(?(0|6|12|16|18)\s*\+\)?]?/g
+        const match_programme = time_pattern.exec(element)
+        const match_day = day_pattern.exec(element)
         if (match_programme && match_programme[3].length > 2) {
-          const match_age = age_pattern.exec(match_programme[3]);
+          const match_age = age_pattern.exec(match_programme[3])
           const programme: any = {
             type: 'programme',
             time: match_programme[1] + '.' + match_programme[2],
             string: match_programme[3]
-          };
+          }
           if (match_age) {
             programme.age = match_age[1]
             programme.string = programme.string.replace(match_age[1] + '+', '')
@@ -56,9 +59,9 @@ module.exports = function (socket) {
         }
       })
       _.each(updated, function (programme, index, list) {
-        if (programme.type == "programme") {
+        if (programme.type == 'programme') {
           _.each(corrections_list, function (change_pair, index, list) {
-            const change_pattern = new RegExp(change_pair.change, "g");
+            const change_pattern = new RegExp(change_pair.change, 'g')
             programme.string = programme.string.replace(change_pattern, change_pair.to)
           })
           programme.string += '.'
@@ -78,7 +81,7 @@ module.exports = function (socket) {
         }
       })
 
-      let full_programme = '';
+      let full_programme = ''
       _.each(updated, function (programme, index, list) {
         if (programme.type == 'day') {
           full_programme += programme.string + '\n'
@@ -91,13 +94,7 @@ module.exports = function (socket) {
         }
       })
 
-      fs.writeFile('./data/3_txt/' + data.filename, full_programme, function (err) {
-        if (err) {
-          console.log(err)
-        } else {
-          console.log("JSON saved to ")
-        }
-      })
+      writeFileSync(join(txtPath, `${data.channelId}.txt`), full_programme)
 
       socket.emit('channel:processed', {
         content: updated
@@ -108,26 +105,26 @@ module.exports = function (socket) {
 
 }
 
-function loadCorrectionsLists(filename: string) {
-  let lists;
-  const full_list = [];
-  let list_content = '';
-  _.each(channels, function (channel, index) {
-    if (channel.filename === filename) {
-      lists = channel.lists
-    }
-  })
+function loadCorrectionsLists(channelId: string) {
+  const full_list = []
+  let list_content = ''
+
+
+  console.log(channelId)
+
+  const lists = Channels[channelId].lists
+
   _.each(lists, function (list, index) {
-    if (fs.existsSync('./lists/' + list + '.txt')) {
-      list_content += fs.readFileSync('./lists/' + list + '.txt', { encoding: 'utf-8' })
+    if (existsSync('./lists/' + list + '.txt')) {
+      list_content += readFileSync('./lists/' + list + '.txt', { encoding: 'utf-8' })
     }
 
   })
   list_content = list_content.replace(/\r/g, '')
-  const lines = list_content.split('\n');
+  const lines = list_content.split('\n')
 
   _.each(lines, function (element, index) {
-    const pair = element.split('~');
+    const pair = element.split('~')
     if (pair.length === 2) {
       full_list.push({ change: pair[0], to: pair[1] })
     }

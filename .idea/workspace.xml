@@ -4,25 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="templates, lists">
-      <change afterPath="$PROJECT_DIR$/globals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encodeAndRename.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" afterDir="false" />
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Refactoring">
+      <change afterPath="$PROJECT_DIR$/src/compile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/Channels.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/CompileGroups.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Channel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zip.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" afterPath="$PROJECT_DIR$/channels.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/drive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/(R)Drive_MTU.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tdk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tdk.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/globals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/ort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/(R)1TV.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/javascripts/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/breakIntoDays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/breakIntoDays.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/convertToXml.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertToXml.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt21.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt21.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layout.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/channel-content.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/channel-content.jade" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +118,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
     "ts.external.directory.path": "/Users/sergeibasharov/WebstormProjects/telegid_legacy/telegidjs/node_modules/typescript/lib"
   },
   "keyToStringList": {
@@ -132,10 +137,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/config" />
       <recent name="$PROJECT_DIR$/data/raw" />
       <recent name="$PROJECT_DIR$/data/in" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/public/stylesheets" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.app.js">
@@ -759,7 +764,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690824774630</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1753177441674</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1753177441674</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -806,12 +819,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init commit" />
     <MESSAGE value="Updated lists, code cleanup" />
     <MESSAGE value="Updated lists" />
     <MESSAGE value="templates, lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="templates, lists" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">

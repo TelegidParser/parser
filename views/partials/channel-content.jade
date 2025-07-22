@@ -1,5 +1,5 @@
 .content-wrapper
   ul.channel-lines
-    li(ng-repeat="line in currentContent")
+    li(class="day", ng-repeat="line in currentContent")
       span <strong>{{line.time}}</strong> {{line.string}}
       <span class="age">{{line.age}}+</span>

@@ -3,5 +3,5 @@ extends layout
 block content
   //progress(value="0")
   ul.channels-list
-    li(ng-click="processChannel(channel.filename)", ng-repeat="channel in channels | orderBy:'title'", ng-class="{selected: channel.exists}") {{channel.title}}
+    li(ng-click="processChannel(channelId)", ng-repeat="(channelId, data) in channels | orderBy:'title'", ng-class="{selected: data.exists}") {{data.title}}
   channel-content

@@ -4,16 +4,19 @@
   "private": true,
   "scripts": {
     "start": "ts-node app.ts",
-    "compile": "ts-node compile.ts",
+    "compile": "ts-node src/compile.ts",
     "rename": "ts-node src/encodeAndRename.ts",
     "clean": "./clean.sh",
-    "zip": "./zip.sh"
+    "zipold": "./zip.sh",
+    "zip": "ts-node src/zip.ts"
   },
   "dependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/lodash": "^4.17.20",
     "@types/node": "24.0.15",
+    "archiver": "^7.0.1",
     "cheerio": "latest",
     "iconv-lite": "0.6.3",
-    "inquirer": "7.0.4",
     "jade": "latest",
     "request": "latest",
     "string": "latest",
@@ -27,7 +30,6 @@
     "lodash": "4.17.21",
     "method-override": "^2.3.8",
     "socket.io": "^1.7.3",
-    "stylus": "^0.54.5",
     "ts-node": "^8.0.3",
     "typescript": "5.8.3"
   }

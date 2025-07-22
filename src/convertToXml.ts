@@ -1,29 +1,42 @@
 import { writeFileSync } from 'fs'
-import { channels } from '../compile';
-import { Days } from './breakIntoDays';
-import { setTags } from './setTags';
+import { Days } from './breakIntoDays'
+import { setTags } from './setTags'
+import { xmlPath } from '../globals'
+import { join } from 'path'
+import { Channels } from './config/Channels'
 
-const xmlHeader = '<?xml version="1.0" encoding="utf-8" standalone="yes" ?>';
-export const convertToXml = (byDay) => {
+const xmlHeader = '<?xml version="1.0" encoding="utf-8" standalone="yes" ?>'
 
-  const daysContent = Days.map((day, index) => {
-    const dayTag = day.toLowerCase();
-    const wrappedWithChannelTitles = channels.map((channel) => {
+export const convertToXml = (channelsGroup, rootTag: string, byDay, outputFilename: string, subTag = '', joinChar: string, timeDivider = ' ', days = Days) => {
+  const daysContent = days.map((day, index) => {
+    const dayTag = day.toLowerCase()
+    const wrappedWithChannelTitles = channelsGroup.map((channelId) => {
 
-      const channelId = Object.keys(channel)[0];
-      const channelTitle = Object.values(channel)[0];
+      const channelTitle = Channels[channelId].title
 
       const dayContent = byDay[channelId][index]
-        .map(setTags)
-        .join('\n');
+        .map(
+          (line: string) =>
+            setTags(line, timeDivider)
+        )
+        .join(joinChar)
 
-      return `<h2>${channelTitle}</h2>\n${dayContent}\n\n`;
-    });
+      return `<h2>${channelTitle}</h2>\n${dayContent}\n\n`
+    })
 
-    return `<${dayTag}>${wrappedWithChannelTitles.join('\n')}</${dayTag}>`;
+    return `<${dayTag}>${wrappedWithChannelTitles.join('\n')}</${dayTag}>`
 
-  });
-  const finalContent = `${xmlHeader}\n<Каналы><Центральные>${daysContent.join('\n')}</Центральные></Каналы>`;
+  })
 
-  writeFileSync('result.xml', finalContent);
-};
+  let subTagOpen = ''
+  let subTagClose = ''
+
+  if (subTag) {
+    subTagOpen = `<${subTag}>`
+    subTagClose = `</${subTag}>`
+  }
+
+  const finalContent = `${xmlHeader}\n<Каналы><${rootTag}>${subTagOpen}${daysContent.join('\n')}${subTagClose}</${rootTag}></Каналы>`
+
+  writeFileSync(join(xmlPath, `${outputFilename}.xml`), finalContent)
+}
