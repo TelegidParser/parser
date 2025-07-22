@@ -1,5 +1,4 @@
 const bodyParser = require('body-parser');
-const methodOverride = require('method-override');
 const express = require('express');
 const routes = require('./routes');
 const socket = require('./routes/socket.ts');
@@ -21,7 +20,6 @@ app.get('/partials/channel-content', routes.channel_content);
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(bodyParser());
-app.use(methodOverride());
 
 http.createServer(app).listen(app.get('port'), function () {
     console.log('Express server listening on port ' + app.get('port'));
