@@ -31,18 +31,18 @@ const compileChannels = (channelsGroup: string[]): { [key: string]: string[][] }
   return channelsByDay
 }
 
-const compileGroup = (channelsGroup, rootTag: string, outputFilename: string, subTag = '', joinChar = ' ', timeDivider = ' ', days = Days) => {
+const compileGroup = (channelsGroup, rootTag: string, outputFilename: string, subTag = '', joinChar = ' ', timeDivider = ' ', days = Days, tagSuffix: '1' | '2') => {
   const byDay = compileChannels(channelsGroup)
 
-  convertToXml(channelsGroup, rootTag, byDay, outputFilename, subTag, joinChar, timeDivider, days)
+  convertToXml(channelsGroup, rootTag, byDay, outputFilename, subTag, joinChar, timeDivider, days, tagSuffix)
   console.log(`${outputFilename} channel group saved`)
 }
 
-compileGroup(CentralGroup, 'Центральные', 'central', undefined, '\n', '\t', Days)
+compileGroup(CentralGroup, 'Центральные', 'central', undefined, '\n', '\t', Days, '2')
 
-compileGroup(MoviesGroup, 'Кабельные', 'gc_01_movies', 'Кино', ' ', ' ', DaysShort)
-compileGroup(ChildrenGroup, 'Кабельные', 'gc_02_children', 'Детские', ' ', ' ', DaysShort)
-compileGroup(SportGroup, 'Кабельные', 'gc_03_sport', 'Спорт', ' ', ' ', DaysShort)
-compileGroup(MusicGroup, 'Кабельные', 'gc_04_music', 'Музыка', ' ', ' ', DaysShort)
-compileGroup(EducationGroup, 'Кабельные', 'gc_05_education', 'Познавательные', ' ', ' ', DaysShort)
-compileGroup(EntertainmentGroup, 'Кабельные', 'gc_06_entertainment', 'Отдых', ' ', ' ', DaysShort)
+compileGroup(MoviesGroup, 'Кабельные', 'gc_01_movies', 'Кино', ' ', ' ', DaysShort, '1')
+compileGroup(ChildrenGroup, 'Кабельные', 'gc_02_children', 'Детские', ' ', ' ', DaysShort, '1')
+compileGroup(SportGroup, 'Кабельные', 'gc_03_sport', 'Спорт', ' ', ' ', DaysShort, '1')
+compileGroup(MusicGroup, 'Кабельные', 'gc_04_music', 'Музыка', ' ', ' ', DaysShort, '1')
+compileGroup(EducationGroup, 'Кабельные', 'gc_05_education', 'Познавательные', ' ', ' ', DaysShort, '1')
+compileGroup(EntertainmentGroup, 'Кабельные', 'gc_06_entertainment', 'Отдых', ' ', ' ', DaysShort, '1')

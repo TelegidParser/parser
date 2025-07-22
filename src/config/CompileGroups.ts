@@ -26,7 +26,8 @@ export const SportGroup = [
 ]
 
 export const ChildrenGroup = [
-  '(R)Karusel'
+  '(R)Karusel',
+  '(R)Detmir24'
 ]
 
 export const MusicGroup = [

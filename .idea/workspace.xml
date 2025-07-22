@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/src/compile.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/Channels.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/CompileGroups.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/Channel.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zip.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compile.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/globals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/globals.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/(R)1TV.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/breakIntoDays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/breakIntoDays.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/compile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/CompileGroups.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/CompileGroups.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/convertToXml.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertToXml.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/setTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/channel-content.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/channel-content.jade" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -772,7 +754,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753177441674</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1753189262514</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753189262514</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
