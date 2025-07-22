@@ -36,6 +36,7 @@ module.exports = function (socket) {
       const updated = []
       _.each(lines, function (element, index, list) {
         element = element.replace(/^\s*(\d)[:.](\d\d)/g, '0$1.$2')
+        element = element.replace(/\s+/g, ' ')
         const time_pattern = /^\s*(\d\d)[.:](\d\d)\s*(.*)\s*$/g
         const day_pattern = /^\s*(ПОНЕДЕЛЬНИК|ВТОРНИК|СРЕДА|ЧЕТВЕРГ|ПЯТНИЦА|СУББОТА|ВОСКРЕСЕНЬЕ|Понедельник|Вторник|Среда|Четверг|Пятница|Суббота|Воскресенье).*$/g
         const age_pattern = /\[?\(?(0|6|12|16|18)\s*\+\)?]?/g
@@ -77,6 +78,8 @@ module.exports = function (socket) {
           programme.string = programme.string.replace(/\s*"\./g, '".')
           programme.string = programme.string.replace(/([!?])\s*(")?\./g, '$1$2')
           programme.string = programme.string.replace(/\."/g, '"')
+          programme.string = programme.string.replace(/""/g, '"')
+          programme.string = programme.string.replace(/!"\./g, '!"')
           console.log(programme.string)
         }
       })

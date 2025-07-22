@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="cleanup">
-      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/friday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/ri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ri.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/sts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/sts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -775,7 +779,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753191788526</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="cleanup">
+      <option name="closed" value="true" />
+      <created>1753191931313</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753191931313</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
