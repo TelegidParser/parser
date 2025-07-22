@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Refactoring">
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="customize tags for central and cables channels separately">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/compile.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/CompileGroups.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/CompileGroups.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convertToXml.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertToXml.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -762,7 +761,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753189262514</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="customize tags for central and cables channels separately">
+      <option name="closed" value="true" />
+      <created>1753191601099</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753191601099</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -816,7 +823,8 @@
     <MESSAGE value="Updated lists" />
     <MESSAGE value="templates, lists" />
     <MESSAGE value="Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <MESSAGE value="customize tags for central and cables channels separately" />
+    <option name="LAST_COMMIT_MESSAGE" value="customize tags for central and cables channels separately" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">

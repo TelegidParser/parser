@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "start": "ts-node app.ts",
-    "compile": "ts-node src/compile.ts",
-    "rename": "ts-node src/encodeAndRename.ts",
     "clean": "./clean.sh",
-    "zipold": "./zip.sh",
+    "rename": "ts-node src/encodeAndRename.ts",
+    "compile": "ts-node src/compile.ts",
     "zip": "ts-node src/zip.ts"
   },
   "dependencies": {
@@ -24,11 +23,8 @@
   },
   "devDependencies": {
     "body-parser": "1.17.1",
-    "error-handler": "1.0.0",
     "express": "4.15.2",
-    "fs-extra": "2.1.2",
     "lodash": "4.17.21",
-    "method-override": "^2.3.8",
     "socket.io": "^1.7.3",
     "ts-node": "^8.0.3",
     "typescript": "5.8.3"
