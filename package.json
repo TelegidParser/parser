@@ -3,15 +3,16 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js",
-    "fetch": "yarn -cwd /Users/sergeibasharov/works/tv/telegidorg fetchpy",
-    "fetchpy": "python /Users/sergeibasharov/works/tv/telegidorg/get.py",
+    "start": "ts-node app.ts",
     "compile": "ts-node compile.ts",
+    "rename": "ts-node src/encodeAndRename.ts",
     "clean": "./clean.sh",
     "zip": "./zip.sh"
   },
   "dependencies": {
+    "@types/node": "24.0.15",
     "cheerio": "latest",
+    "iconv-lite": "0.6.3",
     "inquirer": "7.0.4",
     "jade": "latest",
     "request": "latest",
@@ -19,16 +20,15 @@
     "watch": "latest"
   },
   "devDependencies": {
-    "body-parser": "^1.17.1",
-    "error-handler": "^1.0.0",
-    "express": "^4.15.2",
-    "fs-extra": "^2.1.2",
-    "lodash": "^4.17.4",
+    "body-parser": "1.17.1",
+    "error-handler": "1.0.0",
+    "express": "4.15.2",
+    "fs-extra": "2.1.2",
+    "lodash": "4.17.21",
     "method-override": "^2.3.8",
     "socket.io": "^1.7.3",
     "stylus": "^0.54.5",
     "ts-node": "^8.0.3",
-    "tslint": "^5.14.0",
-    "typescript": "^3.4.1"
+    "typescript": "5.8.3"
   }
 }

@@ -1,21 +1,19 @@
-var bodyParser = require('body-parser');
-var methodOverride = require('method-override');
-var errorHandler = require('error-handler');
-var express = require('express');
-var routes = require('./routes');
-var socket = require('./routes/socket.js');
-var http = require('http');
-var path = require('path');
-var fs = require('fs');
-var io = require('socket.io');
+const bodyParser = require('body-parser');
+const methodOverride = require('method-override');
+const express = require('express');
+const routes = require('./routes');
+const socket = require('./routes/socket.ts');
+const http = require('http');
+const path = require('path');
+const fs = require('fs');
+let io = require('socket.io');
 
-var app = express();
+const app = express();
 
 // all environments
 app.set('port', 4000);
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
-
 
 
 app.get('/', routes.index);
@@ -27,17 +25,17 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(bodyParser());
 app.use(methodOverride());
-// app.use(errorHandler());
 
 
 http.createServer(app).listen(app.get('port'), function () {
     console.log('Express server listening on port ' + app.get('port'));
-    runFileWatcher();
+    // runFileWatcher();
 });
 
 io = io.listen(app.get('port') + 1);
 io.sockets.on('connection', socket);
 
+/*
 function runFileWatcher() {
     fs.watch('./data', function (event, filename) {
         if (filename && filename.indexOf(".txt") !== -1) {
@@ -53,4 +51,4 @@ function runFileWatcher() {
             });
         }
     });
-}
+}*/

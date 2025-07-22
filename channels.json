@@ -220,7 +220,7 @@
   {
     "alias": "tdk",
     "title": "ТДК",
-    "active": true,
+    "active": false,
     "filename": "(R)TDK.txt",
     "lists": [
       "common",
@@ -343,7 +343,7 @@
     "filename": "(R)Drive_MTU.txt",
     "lists": [
       "common",
-      "drive",
+      "(R)Drive_MTU",
       "common"
     ]
   },

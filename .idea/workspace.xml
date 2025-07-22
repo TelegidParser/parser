@@ -4,120 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Updated lists">
-      <change afterPath="$PROJECT_DIR$/convert.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/detmir.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/kuhna.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/mir.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/spas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/emacs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="templates, lists">
+      <change afterPath="$PROJECT_DIR$/globals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encodeAndRename.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Erlang_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Erlang_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rebar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rebar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/telegidjs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/telegidjs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/channels.json" beforeDir="false" afterPath="$PROJECT_DIR$/channels.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/compile.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indesign_config/Scripts Panel/Речь/Импорт Кабельные.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/indesign_config/Scripts Panel/Речь/Импорт Кабельные.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/che.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/che.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/common.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/common.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/dc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/dc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/disney.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/disney.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/diva.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/diva.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/dm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/dm.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/dom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/dom.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/drama.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/drama.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/drive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/drive.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/dva.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/dva.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/es.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/es.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/explorer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/explorer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/friday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/history.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/history.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/kanal12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/kanal5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kanal5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/karusel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/karusel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/khl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/khl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/kultura.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/kultura.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/match.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/match.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/movies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/movies.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/lists/movies.txt.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ngc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ngc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ntv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ntv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ohota.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ohota.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/perez.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/perez.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ren.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/retro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/retro.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ri.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/rm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/rm.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/rtr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/rtr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/rtrsport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/rtrsport.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/rtv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/rtv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/rusever.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/rusever.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/sts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/sts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/drive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/(R)Drive_MTU.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/tdk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tdk.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tk.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tnt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tnt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tv1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tv1000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tv1000rk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tv1000rk.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tv21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tv21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tv3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tv3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tvc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tvc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/usadba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/usadba.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/zdtv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/zdtv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/zvezda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/zvezda.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/angular.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/angular.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/javascripts/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/directives.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/filters.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/filters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/socket.io.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/socket.io.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/breakIntoDays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/breakIntoDays.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/convertToXml.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/convertToXml.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setTags.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt13.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt13.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt15.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt15.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt16.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt16.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt19.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt19.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt20.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt20.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt21.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt21.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt22.lst" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/AdobeFnt22.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/CRC25.otf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/CRC25.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/CRC55.otf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/CRC55.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/CRC65.otf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/CRC65.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCompPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCompPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-LightItal.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-LightItal.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-XThin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-XThin.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-XThinItal.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Document fonts/PFDinTextCondPro-XThinItal.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/gc.indt" beforeDir="false" afterPath="$PROJECT_DIR$/templates/gc.indt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rc.indt" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rc.indt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/layout.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.jade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/channel-content.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/channel-content.jade" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,13 +58,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectId" id="1OhAwfq0UscXZ6VQuZlyRda1WlI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -194,38 +101,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sergeibasharov/WebstormProjects/telegid_legacy/telegidjs/data/1_raw",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "ts.external.directory.path": "/Users/sergeibasharov/WebstormProjects/telegid_legacy/telegidjs/node_modules/typescript/lib"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/1_raw" />
       <recent name="$PROJECT_DIR$/data/in" />
       <recent name="$PROJECT_DIR$/data/bak" />
       <recent name="$PROJECT_DIR$/converted" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/lists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/data/raw" />
       <recent name="$PROJECT_DIR$/data/in" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/stylesheets" />
-      <recent name="$PROJECT_DIR$/lists" />
-      <recent name="$PROJECT_DIR$/data/json" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.app.js">
@@ -246,6 +156,10 @@
       <working_directory value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="CaddyfileRunConfiguration" factoryName="CaddyfileRunConfiguration" caddy-exec="caddy" sub-command="run" caddyfile="Caddyfile" working-dir="" env-files="">
+      <env-vars />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -276,10 +190,13 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Node.js.get.js" />
-      <item itemvalue="Node.js.app.js" />
-    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -725,6 +642,38 @@
       <workItem from="1689008054062" duration="346000" />
       <workItem from="1689616108672" duration="956000" />
       <workItem from="1690216073015" duration="3004000" />
+      <workItem from="1690824654768" duration="1081000" />
+      <workItem from="1691421786760" duration="4299000" />
+      <workItem from="1692034369832" duration="3301000" />
+      <workItem from="1692044651149" duration="7000" />
+      <workItem from="1692640022539" duration="3475000" />
+      <workItem from="1693849988969" duration="1896000" />
+      <workItem from="1694455704353" duration="759000" />
+      <workItem from="1695058717243" duration="2033000" />
+      <workItem from="1695665635570" duration="960000" />
+      <workItem from="1696269342330" duration="94000" />
+      <workItem from="1696269563065" duration="2213000" />
+      <workItem from="1696869821193" duration="3288000" />
+      <workItem from="1697474318662" duration="1911000" />
+      <workItem from="1698081747542" duration="3225000" />
+      <workItem from="1699038304574" duration="3254000" />
+      <workItem from="1701101888726" duration="1292000" />
+      <workItem from="1701712666795" duration="2583000" />
+      <workItem from="1703520161272" duration="2557000" />
+      <workItem from="1704135730356" duration="5654000" />
+      <workItem from="1706291850686" duration="1309000" />
+      <workItem from="1706551054292" duration="784000" />
+      <workItem from="1707152884457" duration="320000" />
+      <workItem from="1707760532325" duration="1222000" />
+      <workItem from="1708365125777" duration="2078000" />
+      <workItem from="1709572656474" duration="514000" />
+      <workItem from="1710179321066" duration="4366000" />
+      <workItem from="1711992057172" duration="312000" />
+      <workItem from="1711992412292" duration="4207000" />
+      <workItem from="1714146567235" duration="4455000" />
+      <workItem from="1715016863330" duration="443000" />
+      <workItem from="1715017328932" duration="8609000" />
+      <workItem from="1717436119331" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
@@ -803,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644254607016</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="templates, lists">
+      <created>1690824774630</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690824774630</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -830,6 +786,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -839,12 +806,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init commit" />
     <MESSAGE value="Updated lists, code cleanup" />
     <MESSAGE value="Updated lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated lists" />
+    <MESSAGE value="templates, lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="templates, lists" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">

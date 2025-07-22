@@ -14,14 +14,14 @@ FamilyNameNative:
 StyleNameNative:PT
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRS65.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRS65.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:32301
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -38,12 +38,12 @@ WidthClass:5
 AngleClass:0
 FullName:Webdings
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/webdings.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/webdings.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:121664
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Webdings
 NameArray:0,Win,1,Webdings
 %EndFont
@@ -53,9 +53,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:PragmaticaC
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG55.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PRG55.PFM
 FileLength:2176
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -71,12 +71,12 @@ WidthClass:5
 AngleClass:0
 FullName:PFDinTextCompPro-Regular
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCompPro-Regular.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCompPro-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:443684
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCompPro-Regular
 NameArray:0,Win,1,PF Din Text Comp Pro
 %EndFont
@@ -94,12 +94,12 @@ WidthClass:5
 AngleClass:1
 FullName:PFDinTextCondPro-XThinItalic
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-XThinItal.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCondPro-XThinItal.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:581172
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCondPro-XThinItalic
 NameArray:0,Win,1,PF Din Text Cond Pro X Thin
 NameArray:0,Win,16,PF Din Text Cond Pro
@@ -110,17 +110,17 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:FreeSetC-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRS65.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRS65.PFM
 FileLength:681
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt19.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt19.lst
 FileLength:18460
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -136,14 +136,14 @@ FamilyNameNative:
 StyleNameNative:PT
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG55.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PRG55.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33216
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -160,12 +160,12 @@ WidthClass:5
 AngleClass:1
 FullName:PFDinTextCondPro-LightItalic
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-LightItal.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCondPro-LightItal.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:467720
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCondPro-LightItalic
 NameArray:0,Win,1,PF Din Text Cond Pro Light
 NameArray:0,Win,16,PF Din Text Cond Pro
@@ -184,14 +184,14 @@ WidthClass:5
 AngleClass:0
 FullName:Vaccine Light
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/VCN45.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/VCN45.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:120112
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Vaccine Light
 NameArray:0,Win,1,Vaccine Light
 NameArray:0,Win,16,Vaccine
@@ -210,14 +210,14 @@ WidthClass:5
 AngleClass:0
 FullName:Circe Extra Light
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC25.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/CRC25.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:407472
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Circe Extra Light
 NameArray:0,Win,1,Circe Extra Light
 NameArray:0,Win,16,Circe
@@ -236,23 +236,23 @@ FamilyNameNative:
 StyleNameNative:Italic
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____O.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____O.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:32131
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt20.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt20.lst
 FileLength:22660
-FileModTime:589138593
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -260,17 +260,17 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HeliosCond
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN___.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_CN___.PFM
 FileLength:2326
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt21.lst
-FileLength:22849
-FileModTime:615150644
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt21.lst
+FileLength:23947
+FileModTime:746387716
 %EndFont
 
 %BeginFont
@@ -278,9 +278,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios-Italic
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____O.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____O.PFM
 FileLength:2749
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -295,23 +295,23 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN___.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_CN___.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:31854
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt22.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt22.lst
 FileLength:22849
-FileModTime:615146983
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -319,9 +319,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE______.PFM
 FileLength:2742
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -329,9 +329,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:NewsPaperC
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP45.pfm
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/NWP45.pfm
 FileLength:682
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -347,23 +347,23 @@ FamilyNameNative:
 StyleNameNative:ITC
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG55_0.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRG55_0.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:38111
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/Document fonts.zip
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/Document fonts.zip
 FileLength:127684
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -379,12 +379,12 @@ WidthClass:5
 AngleClass:0
 FullName:PFDinTextCondPro-XThin
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-XThin.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCondPro-XThin.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:561252
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCondPro-XThin
 NameArray:0,Win,1,PF Din Text Cond Pro X Thin
 NameArray:0,Win,16,PF Din Text Cond Pro
@@ -403,14 +403,14 @@ WidthClass:5
 AngleClass:0
 FullName:Circe
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC55.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/CRC55.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:407180
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Circe
 NameArray:0,Win,1,Circe
 %EndFont
@@ -428,12 +428,12 @@ WidthClass:5
 AngleClass:0
 FullName:PFDinTextCondPro-Regular
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-Regular.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCondPro-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:445892
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCondPro-Regular
 NameArray:0,Win,1,PF Din Text Cond Pro
 %EndFont
@@ -450,14 +450,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE______.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33496
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -473,14 +473,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP45.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/NWP45.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33065
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -489,9 +489,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:FranklinGothicBookC
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG55_0.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRG55_0.PFM
 FileLength:3144
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -499,9 +499,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HeliosBlack
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___0.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE__H___0.PFM
 FileLength:2240
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -517,14 +517,14 @@ FamilyNameNative:
 StyleNameNative:ITC
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN45.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/OSN45.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:44153
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -533,9 +533,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:FranklinGothicDemiC
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG75_0.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRG75_0.PFM
 FileLength:2612
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -543,9 +543,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:OfficinaSansC-Book
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN45.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/OSN45.PFM
 FileLength:3229
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -560,14 +560,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___0.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE__H___0.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34597
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -584,12 +584,12 @@ WidthClass:5
 AngleClass:0
 FullName:PFDinTextCondPro-Bold
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PFDinTextCondPro-Bold.ttf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PFDinTextCondPro-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:406416
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,PFDinTextCondPro-Bold
 NameArray:0,Win,1,PF Din Text Cond Pro
 %EndFont
@@ -610,14 +610,14 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AGGloria-Bold_0.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AGGloria-Bold_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:no
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:23040
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,AGGloriaC Bold
 NameArray:0,Win,1,AGGloriaC
 %EndFont
@@ -635,14 +635,14 @@ FamilyNameNative:
 StyleNameNative:ITC
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/FRG75_0.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/FRG75_0.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:39837
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -651,9 +651,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:NewsPaperC-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP65.pfm
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/NWP65.pfm
 FileLength:687
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -668,14 +668,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE__H___.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34597
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -695,14 +695,14 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AGGloria_0.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AGGloria_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:no
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:22848
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,AGGloriaC
 NameArray:0,Win,1,AGGloriaC
 %EndFont
@@ -712,9 +712,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HeliosBlack
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE__H___.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE__H___.PFM
 FileLength:2240
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -730,14 +730,14 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/NWP65.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/NWP65.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34123
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -754,14 +754,14 @@ FamilyNameNative:
 StyleNameNative:ITC
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN65.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/OSN65.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:44143
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -770,9 +770,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:OfficinaSansC-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/OSN65.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/OSN65.PFM
 FileLength:3009
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -788,14 +788,14 @@ WidthClass:5
 AngleClass:0
 FullName:Circe Bold
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/CRC65.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/CRC65.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:416088
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Circe Bold
 NameArray:0,Win,1,Circe Bold
 NameArray:0,Win,16,Circe
@@ -806,17 +806,17 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HeliosCond
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN__.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_CN__.PFM
 FileLength:2326
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt13.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt13.lst
 FileLength:4709
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -832,14 +832,14 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE___.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE___.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34189
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -848,9 +848,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:PragmaticaC-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG75.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PRG75.PFM
 FileLength:2221
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -858,9 +858,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____B.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____B.PFM
 FileLength:2299
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -876,14 +876,14 @@ WidthClass:5
 AngleClass:0
 FullName:Vaccine Bold
 WritingScript:Roman
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/VCN75.otf
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/VCN75.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:122476
-FileModTime:581883488
+FileModTime:644173895
 NameArray:0,Mac,4,Vaccine Bold
 NameArray:0,Win,1,Vaccine Bold
 NameArray:0,Win,16,Vaccine
@@ -901,14 +901,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_CN__.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_CN__.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:31854
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -917,9 +917,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios-Bold
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE___.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE___.PFM
 FileLength:2299
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -935,14 +935,14 @@ FamilyNameNative:
 StyleNameNative:PT
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/PRG75.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/PRG75.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34473
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -959,14 +959,14 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____B.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____B.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:34189
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -982,31 +982,31 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____0.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____0.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33496
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt15.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt15.lst
 FileLength:17198
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt14.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt14.lst
 FileLength:12643
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -1021,14 +1021,14 @@ FamilyNameNative:
 StyleNameNative:
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______0.PFB
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE______0.PFB
 DataFormat:Plain
 UsesStandardEncoding:no
 isCFF:no
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:33496
-FileModTime:581883488
+FileModTime:644173895
 DesignSize:-1
 %EndFont
 
@@ -1037,17 +1037,17 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE_____0.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE_____0.PFM
 FileLength:2742
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/AdobeFnt16.lst
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/AdobeFnt16.lst
 FileLength:17198
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
 %BeginFont
@@ -1055,8 +1055,8 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:Helios
 NumMMAxes:0
-OutlineFileName:/Users/sergeibasharov/works/tv/templates/Document fonts/HE______0.PFM
+OutlineFileName:/Users/sergeibasharov/WebstormProjects/telegidjs/templates/Document fonts/HE______0.PFM
 FileLength:2742
-FileModTime:581883488
+FileModTime:644173895
 %EndFont
 
