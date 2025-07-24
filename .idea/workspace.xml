@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="cleanup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/friday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/friday.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/ri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/ri.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/sts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/sts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/u.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lists/u.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/socket.ts" afterDir="false" />
-    </list>
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="cleanup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +39,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
@@ -102,7 +95,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
-    "ts.external.directory.path": "/Users/sergeibasharov/WebstormProjects/telegid_legacy/telegidjs/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Users/sergeibasharov/WebstormProjects/telegid_legacy/telegidjs/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -126,7 +120,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager">
+    <configuration default="true" type="CaddyfileRunConfiguration" factoryName="CaddyfileRunConfiguration" caddy-exec="caddy" sub-command="run" caddyfile="Caddyfile" working-dir="" env-files="">
+      <env-vars />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="" />
       <working_directory value="$PROJECT_DIR$" />
@@ -145,16 +143,7 @@
       <framework value="gotest" />
       <kind value="DIRECTORY" />
     </configuration>
-    <configuration default="true" type="CaddyfileRunConfiguration" factoryName="CaddyfileRunConfiguration" caddy-exec="caddy" sub-command="run" caddyfile="Caddyfile" working-dir="" env-files="">
-      <env-vars />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="get.js" type="NodeJSConfigurationType" path-to-node="/usr/local/bin/node" path-to-js-file="get.js" working-dir="$PROJECT_DIR$">
-      <RunnerSettings RunnerId="NodeJS.run" />
-      <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -182,7 +171,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -662,6 +651,7 @@
       <workItem from="1715016863330" duration="443000" />
       <workItem from="1715017328932" duration="8609000" />
       <workItem from="1717436119331" duration="335000" />
+      <workItem from="1753343262216" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1596464474864</created>
