@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="cleanup">
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="updated links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -803,7 +803,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753428566237</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updated links">
+      <option name="closed" value="true" />
+      <created>1753428704093</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1753428704093</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -860,7 +868,8 @@
     <MESSAGE value="customize tags for central and cables channels separately" />
     <MESSAGE value="Added basic instructions" />
     <MESSAGE value="cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
+    <MESSAGE value="updated links" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated links" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">
