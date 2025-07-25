@@ -1,7 +1,7 @@
 # Шаблоны Indesign
-В папке templates есть два файла-шаблона: 
-- gc.indt - Голос Череповца
-- rc.indt - Речь
+В папке [templates](https://github.com/TelegidParser/parser/tree/master/templates) есть два файла-шаблона: 
+- [gc.indt](https://github.com/TelegidParser/parser/blob/master/templates/gc.indt) - Голос Череповца
+- [rc.indt](https://github.com/TelegidParser/parser/blob/master/templates/rc.indt) - Речь
 
 Там же есть папка с шрифтами для этих шаблонов
 

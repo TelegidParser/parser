@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="Added basic instructions">
+    <list default="true" id="9058eacb-e043-4489-bbd4-b533961defc0" name="Default" comment="cleanup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -795,7 +795,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753428484868</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="cleanup">
+      <option name="closed" value="true" />
+      <created>1753428566237</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1753428566237</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -850,9 +858,9 @@
     <MESSAGE value="templates, lists" />
     <MESSAGE value="Refactoring" />
     <MESSAGE value="customize tags for central and cables channels separately" />
-    <MESSAGE value="cleanup" />
     <MESSAGE value="Added basic instructions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basic instructions" />
+    <MESSAGE value="cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lists/kanal12.txt">
