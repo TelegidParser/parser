@@ -7,6 +7,7 @@
     "clean": "./clean.sh",
     "rename": "ts-node src/encodeAndRename.ts",
     "compile": "ts-node src/compile.ts",
+    "validate": "ts-node src/validateXml.ts",
     "zip": "ts-node src/zip.ts"
   },
   "dependencies": {
@@ -17,6 +18,7 @@
     "cheerio": "latest",
     "iconv-lite": "0.6.3",
     "jade": "latest",
+    "libxmljs": "^1.0.11",
     "request": "latest",
     "string": "latest",
     "watch": "latest"

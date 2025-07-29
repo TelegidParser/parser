@@ -21,7 +21,9 @@ export const convertToXml = (channelsGroup, rootTag: string, byDay, outputFilena
         )
         .join(joinChar)
 
-      return `<h${tagSuffix}>${channelTitle}</h${tagSuffix}>\n${dayContent}\n`
+      const dayContentFixed = dayContent.replace(/&/g, '&amp;')
+
+      return `<h${tagSuffix}>${channelTitle}</h${tagSuffix}>\n${dayContentFixed}\n`
     })
 
     return `<${dayTag}>${wrappedWithChannelTitles.join('\n')}</${dayTag}>`

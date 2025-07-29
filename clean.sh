@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 rm -rf data
-rm -rf result.xml
 
 mkdir data
-mkdir data/json
-mkdir data/in
-mkdir data/txt
-mkdir data/xml
+mkdir data/1_raw
+mkdir data/2_in
+mkdir data/3_txt
+mkdir data/4_xml
+mkdir data/5_zip
 
 
 FILES_DIR=/Users/sergeibasharov/works/tv/files
