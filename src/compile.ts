@@ -8,11 +8,16 @@ import { txtPath } from '../globals'
 import {
   CentralGroup,
   ChildrenGroup,
+  ChildrenRcGroup,
   EducationGroup,
+  EducationRcGroup,
   EntertainmentGroup,
+  EntertainmentRcGroup,
   MoviesGroup,
+  MoviesRcGroup,
   MusicGroup,
-  SportGroup
+  SportGroup,
+  SportRcGroup
 } from './config/CompileGroups'
 
 const loadChannelFile = (channelId: string) =>
@@ -46,3 +51,11 @@ compileGroup(SportGroup, 'Кабельные', 'gc_03_sport', 'Спорт', ' ',
 compileGroup(MusicGroup, 'Кабельные', 'gc_04_music', 'Музыка', ' ', ' ', DaysShort, '1')
 compileGroup(EducationGroup, 'Кабельные', 'gc_05_education', 'Познавательные', ' ', ' ', DaysShort, '1')
 compileGroup(EntertainmentGroup, 'Кабельные', 'gc_06_entertainment', 'Отдых', ' ', ' ', DaysShort, '1')
+
+compileGroup(EducationRcGroup, 'Кабельные', 'rc_01_education', 'Познавательные', ' ', ' ', DaysShort, '1')
+compileGroup(MoviesRcGroup, 'Кабельные', 'rc_02_movies', 'Кино', ' ', ' ', DaysShort, '1')
+compileGroup(EntertainmentRcGroup, 'Кабельные', 'rc_03_entertainment', 'Отдых', ' ', ' ', DaysShort, '1')
+compileGroup(ChildrenRcGroup, 'Кабельные', 'rc_04_children', 'Детские', ' ', ' ', DaysShort, '1')
+compileGroup(SportRcGroup, 'Кабельные', 'rc_05_sport', 'Спорт', ' ', ' ', DaysShort, '1')
+
+

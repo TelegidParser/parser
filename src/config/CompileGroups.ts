@@ -26,8 +26,7 @@ export const SportGroup = [
 ]
 
 export const ChildrenGroup = [
-  '(R)Karusel',
-  '(R)Detmir24'
+  '(R)Karusel'
 ]
 
 export const MusicGroup = [
@@ -49,4 +48,42 @@ export const EntertainmentGroup = [
   '(R)ZVEZDA',
   '(R)Usadba_MTU',
   '(R)MIR'
+]
+
+export const MoviesRcGroup = [
+  '(R)TV21',
+  '(R)TV1000',
+  '(R)TV1000_RK',
+  '(R)RU_ILLusio',
+  '(R)DOMASHNIY',
+  '(R)U'
+]
+
+export const SportRcGroup = [
+  '(R)MatchTV',
+  '(R)Drive_MTU',
+  '(R)Zdorov_MTU',
+  '(R)OTR',
+  'rusever'
+]
+
+export const ChildrenRcGroup = [
+  '(R)Karusel',
+  '(R)Detmir24'
+]
+
+export const EducationRcGroup = [
+  '(R)History',
+  '(R)Kuhna',
+  '(R)Usadba_MTU',
+  '(R)SPAS',
+]
+
+export const EntertainmentRcGroup = [
+  '(R)ZVEZDA',
+  '(R)Che',
+  '(R)Ha&Fi_MTU',
+  '(R)Retro_MTU',
+  '(R)MIR',
+  '(R)Friday',
 ]
