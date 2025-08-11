@@ -161,7 +161,7 @@ export const Channels: { [channelName: string]: Channel } = {
     ]
   },
   '(R)Zdorov_MTU': {
-    'title': 'ЗдоровоеТВ',
+    'title': 'Здоровое ТВ',
     'lists': [
       'common',
       'zdtv',
