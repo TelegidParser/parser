@@ -7,6 +7,7 @@ export const CentralGroup = [
   '(R)RenTV_REG',
   '(R)STS',
   '(R)TNT0',
+  '(R)TVC',
   '(R)Piter5_RUS',
   'rusever'
 ]
