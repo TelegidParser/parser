@@ -36,14 +36,14 @@ const compileChannels = (channelsGroup: string[]): { [key: string]: string[][] }
   return channelsByDay
 }
 
-const compileGroup = (channelsGroup, rootTag: string, outputFilename: string, subTag = '', joinChar = ' ', timeDivider = ' ', days = Days, tagSuffix: '1' | '2') => {
+const compileGroup = (channelsGroup, rootTag: string, outputFilename: string, subTag = '', joinChar = ' ', timeDivider = ' ', days = Days, tagSuffix: '1' | '2', characterAfterContent = '') => {
   const byDay = compileChannels(channelsGroup)
 
-  convertToXml(channelsGroup, rootTag, byDay, outputFilename, subTag, joinChar, timeDivider, days, tagSuffix)
+  convertToXml(channelsGroup, rootTag, byDay, outputFilename, subTag, joinChar, timeDivider, days, tagSuffix, characterAfterContent)
   console.log(`${outputFilename} channel group saved`)
 }
 
-compileGroup(CentralGroup, 'Центральные', 'central', undefined, '\n', '\t', Days, '2')
+compileGroup(CentralGroup, 'Центральные', 'central', undefined, '\n', '\t', Days, '2', '\n')
 
 compileGroup(MoviesGroup, 'Кабельные', 'gc_01_movies', 'Кино', ' ', ' ', DaysShort, '1')
 compileGroup(ChildrenGroup, 'Кабельные', 'gc_02_children', 'Детские', ' ', ' ', DaysShort, '1')

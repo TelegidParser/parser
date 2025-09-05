@@ -7,7 +7,18 @@ import { Channels } from './config/Channels'
 
 const xmlHeader = '<?xml version="1.0" encoding="utf-8" standalone="yes" ?>'
 
-export const convertToXml = (channelsGroup, rootTag: string, byDay, outputFilename: string, subTag = '', joinChar: string, timeDivider = ' ', days = Days, tagSuffix: '1' | '2') => {
+export const convertToXml = (
+  channelsGroup,
+  rootTag: string,
+  byDay,
+  outputFilename: string,
+  subTag = '',
+  joinChar: string,
+  timeDivider = ' ',
+  days = Days,
+  tagSuffix: '1' | '2',
+  characterAfterContent = ''
+) => {
   const daysContent = days.map((day, index) => {
     const dayTag = day.toLowerCase()
     const wrappedWithChannelTitles = channelsGroup.map((channelId) => {
@@ -23,7 +34,7 @@ export const convertToXml = (channelsGroup, rootTag: string, byDay, outputFilena
 
       const dayContentFixed = dayContent.replace(/&/g, '&amp;')
 
-      return `<h${tagSuffix}>${channelTitle}</h${tagSuffix}>\n${dayContentFixed}\n`
+      return `<h${tagSuffix}>${channelTitle}</h${tagSuffix}>\n${dayContentFixed}${characterAfterContent}`
     })
 
     return `<${dayTag}>${wrappedWithChannelTitles.join('\n')}</${dayTag}>`

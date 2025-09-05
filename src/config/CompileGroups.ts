@@ -81,6 +81,7 @@ export const EducationRcGroup = [
 
 export const EntertainmentRcGroup = [
   '(R)ZVEZDA',
+  '(R)MIR',
   '(R)Che',
   '(R)Ha&Fi_MTU',
   '(R)TV3_REG',
